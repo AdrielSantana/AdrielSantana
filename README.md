@@ -1,7 +1,7 @@
 ## Salve, Adriel
 ---------------------------
 ### Web Developer Full-Stack <img src="https://img.icons8.com/stickers/25/000000/internet.png"/>
-### Estudante de Engenharia da Computação
+### Estudante de Engenharia de Computação
 
 #### Aqui estão meus projetos pessoais enquanto aprendo programação, dá uma olhadinha :)
 

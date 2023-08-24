@@ -7,7 +7,6 @@
 ### Computer Engineering Student
 
 <img width="16" height="16" src="https://img.icons8.com/office/16/pencil--v1.png" alt="pencil--v1"/>
-Currently studying: DevOps and good practices
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrielSantana&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_title=true&hide_border=true)](https://github.com/AdrielSantana)
   
